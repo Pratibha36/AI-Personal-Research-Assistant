@@ -25,7 +25,7 @@ setup(
     description="An AI-powered personal research assistant for document analysis",
     long_description=read_readme(),
     long_description_content_type="text/markdown",
-    url="https://github.com/your-username/ai-research-assistant",
+    url="https://github.com/Pratibha36/AI-Personal-Research-Assistant",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
@@ -33,7 +33,6 @@ setup(
         "Intended Audience :: Developers",
         "Intended Audience :: Education",
         "Intended Audience :: Science/Research",
-        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.8",
@@ -67,8 +66,8 @@ setup(
     zip_safe=False,
     keywords="ai, research, assistant, documents, nlp, vector-database, gradio",
     project_urls={
-        "Bug Reports": "https://github.com/your-username/ai-research-assistant/issues",
-        "Source": "https://github.com/your-username/ai-research-assistant",
-        "Documentation": "https://github.com/your-username/ai-research-assistant/docs",
+        "Bug Reports": "https://github.com/Pratibha36/AI-Personal-Research-Assistant",
+        "Source": "https://github.com/Pratibha36/AI-Personal-Research-Assistant",
+        "Documentation": https://github.com/Pratibha36/AI-Personal-Research-Assistant",
     },
 )
