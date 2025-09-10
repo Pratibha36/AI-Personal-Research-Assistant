@@ -89,7 +89,6 @@ This project includes VS Code configuration for optimal development experience:
 - `src/core/`: Core business logic
 - `src/ui/`: User interface components
 - `src/utils/`: Utility functions and configuration
-- `tests/`: Unit tests
 - `data/`: Data storage (ignored by git)
 
 ### Running Tests
@@ -125,24 +124,3 @@ You'll need a Groq API key:
 3. Make your changes
 4. Add tests
 5. Submit a pull request
-
-## 📄 License
-
-MIT License - see LICENSE file for details
-
-## 🙋‍♂️ Support
-
-If you encounter any issues or have questions:
-
-1. Check the [documentation](docs/)
-2. Search existing [issues](../../issues)
-3. Create a new issue with detailed information
-
-## 🚧 Roadmap
-
-- [ ] Support for more document formats
-- [ ] Multi-language support
-- [ ] Advanced search filters
-- [ ] Export functionality
-- [ ] API endpoints
-- [ ] Docker containerization
